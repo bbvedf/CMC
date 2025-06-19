@@ -1,0 +1,3 @@
+Este es un fichero de pruebas.
+Puedes utilizar este archivo para realizar pruebas de lectura y escritura.
+Fin del fichero de pruebas.
