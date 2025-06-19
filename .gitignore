@@ -1,0 +1,6 @@
+# .gitignore
+.env
+config/secrets.py
+secrets.json
+*.key
+*.pem
